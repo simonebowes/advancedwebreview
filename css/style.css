@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    min-height: 100%;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/07/7b/e4/077be44699231e3b7949f61b0562131f.jpg");
+    
+}
+
+h1 {
+    font-size: 80px;
+}
+
+
+h2 {
+    font-size: 40px;
+}
+
+h1, h2 {
+    color: white;
+    font-family: sans-serif;
+}
+
+
+
+.menu a {
+   font-size: 30px;
+   color: white;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
